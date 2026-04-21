@@ -1516,7 +1516,7 @@ game.onUpdateInterval(600, function level3_on_enemy_tick() {
 //  ==============================================================
 function intro() {
     scene.setBackgroundColor(1)
-    game.splash("DNA: CODE OF LIFE", "v2 - Full Rewrite")
+    game.splash("CELL STUDIO", "'A' to START")
     game.splash("You ARE a cell.", "Keep it alive.")
     game.splash("Three levels:", "Build - Transcribe - Deliver")
     game.splash("Controls:", "D-pad + A/B")

@@ -1371,7 +1371,7 @@ game.on_update_interval(600, level3_on_enemy_tick)
 # ==============================================================
 def intro():
     scene.set_background_color(1)
-    game.splash("DNA: CODE OF LIFE", "v2 - Full Rewrite")
+    game.splash("CELL STUDIO", "'A' to START")
     game.splash("You ARE a cell.", "Keep it alive.")
     game.splash("Three levels:", "Build - Transcribe - Deliver")
     game.splash("Controls:", "D-pad + A/B")
